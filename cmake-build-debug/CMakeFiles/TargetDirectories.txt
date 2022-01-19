@@ -1,0 +1,3 @@
+/Users/klaiden/Desktop/ncurse/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/klaiden/Desktop/ncurse/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/klaiden/Desktop/ncurse/cmake-build-debug/CMakeFiles/ncurse.dir
