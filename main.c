@@ -3,11 +3,12 @@
 int main(int argc, char **argv)
 {
     initscr();
-    int row = 25, col = 80;
+    int row = 0, col = 0;
     // creating a window;
     // with height = 25 and width = 80
     // also with start x axis = 2 and start y axis = 10
     WINDOW *win = newwin(25, 80, 2, 10);
+    mvprintw(row, col, "|0>"); // real moving in your screen
     refresh();
 
     noecho(); // not let input show on a screen.
